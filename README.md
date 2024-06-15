@@ -7,7 +7,7 @@ This project is a Node.js application that scrapes data from B2B event websites.
 Before you begin, ensure you have met the following requirements:
 
 - Node.js installed on your machine
-- An OpenAI API key. You can get one by signing up at [OpenAI](https://beta.openai.com/signup/).
+- An OpenAI API key. You can get one by signing up at [OpenAI](https://platform.openai.com/api-keys).
 
 ## Setup
 
